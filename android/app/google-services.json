@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "384186203203",
+    "firebase_url": "https://forcar-c6175-default-rtdb.firebaseio.com",
     "project_id": "forcar-c6175",
     "storage_bucket": "forcar-c6175.appspot.com"
   },
@@ -14,7 +15,23 @@
       },
       "oauth_client": [
         {
-          "client_id": "384186203203-fm2go8r4l5rcs1b2hl1gjcdpo7vbm4qm.apps.googleusercontent.com",
+          "client_id": "384186203203-6nhtuauordhjgjfsk2mvou0k5j3rn1lr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.forcar.customer",
+            "certificate_hash": "1843d3dab8cc2d40ed5a149379b200ca96d01b89"
+          }
+        },
+        {
+          "client_id": "384186203203-b5m3k9223ktmkbg42nebvnonldgkf7uu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.forcar.customer",
+            "certificate_hash": "740cb3496505cdbeb65135770fb918fbf4a0e81b"
+          }
+        },
+        {
+          "client_id": "384186203203-35cgdl20n64qf7ii0bk8838jscvfjppr.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
@@ -27,8 +44,15 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "384186203203-fm2go8r4l5rcs1b2hl1gjcdpo7vbm4qm.apps.googleusercontent.com",
+              "client_id": "384186203203-35cgdl20n64qf7ii0bk8838jscvfjppr.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "384186203203-gjbpvcdvdfu9qe9ubu3hfshrplpobnn0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.forcar.delivery"
+              }
             }
           ]
         }
@@ -43,7 +67,15 @@
       },
       "oauth_client": [
         {
-          "client_id": "384186203203-fm2go8r4l5rcs1b2hl1gjcdpo7vbm4qm.apps.googleusercontent.com",
+          "client_id": "384186203203-q24lnpoeuuk8i3f2722bm2gp52h0e2si.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.forcar.delivery",
+            "certificate_hash": "e54535560e9dd7b21fa2f7fe2a51efca975f9467"
+          }
+        },
+        {
+          "client_id": "384186203203-35cgdl20n64qf7ii0bk8838jscvfjppr.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
@@ -56,8 +88,15 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "384186203203-fm2go8r4l5rcs1b2hl1gjcdpo7vbm4qm.apps.googleusercontent.com",
+              "client_id": "384186203203-35cgdl20n64qf7ii0bk8838jscvfjppr.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "384186203203-gjbpvcdvdfu9qe9ubu3hfshrplpobnn0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.forcar.delivery"
+              }
             }
           ]
         }
@@ -72,7 +111,15 @@
       },
       "oauth_client": [
         {
-          "client_id": "384186203203-fm2go8r4l5rcs1b2hl1gjcdpo7vbm4qm.apps.googleusercontent.com",
+          "client_id": "384186203203-69jo7fq2mm4972d1h8pcvtp839hp5es2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.forcar.seller",
+            "certificate_hash": "4d585ab07070377332b737db1eed43398a88a0d0"
+          }
+        },
+        {
+          "client_id": "384186203203-35cgdl20n64qf7ii0bk8838jscvfjppr.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
@@ -85,8 +132,15 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "384186203203-fm2go8r4l5rcs1b2hl1gjcdpo7vbm4qm.apps.googleusercontent.com",
+              "client_id": "384186203203-35cgdl20n64qf7ii0bk8838jscvfjppr.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "384186203203-gjbpvcdvdfu9qe9ubu3hfshrplpobnn0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.forcar.delivery"
+              }
             }
           ]
         }

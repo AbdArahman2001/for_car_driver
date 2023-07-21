@@ -16,7 +16,7 @@ dependencies:
   http:
   shared_preferences:
   dio:
-  google_maps_flutter:
+  google_maps_flutter: ^2.3.0
   geocoding:
   geolocator:
   url_launcher:
@@ -45,12 +45,14 @@ dependencies:
   pin_code_fields:
   readmore:
   cached_network_image:
+  flutter_downloader: ^1.10.5
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^1.0.0
-
+dependency_overrides:
+  modal_bottom_sheet: ^3.0.0-pre
 flutter:
 
   uses-material-design: true

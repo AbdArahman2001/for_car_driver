@@ -56,7 +56,7 @@ class AppConstants {
   static const String userPassword = 'user_password';
   static const String userEmail = 'user_email';
   static const String currency = 'currency';
-  static const String topic = 'six_valley_delivery';
+  static const String topic = 'for_car_delivery';
   static const String intro = '6valley_delivery';
   static const String localizationKey = 'X-localization';
   static const String notificationCount = 'count';

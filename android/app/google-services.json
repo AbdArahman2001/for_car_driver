@@ -8,28 +8,12 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:384186203203:android:b30d7f360b67f4f5a568f6",
+        "mobilesdk_app_id": "1:384186203203:android:42ff0938c1570fa6a568f6",
         "android_client_info": {
-          "package_name": "com.forcar.customer"
+          "package_name": "com.customer.forcar"
         }
       },
       "oauth_client": [
-        {
-          "client_id": "384186203203-6nhtuauordhjgjfsk2mvou0k5j3rn1lr.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.forcar.customer",
-            "certificate_hash": "1843d3dab8cc2d40ed5a149379b200ca96d01b89"
-          }
-        },
-        {
-          "client_id": "384186203203-b5m3k9223ktmkbg42nebvnonldgkf7uu.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.forcar.customer",
-            "certificate_hash": "740cb3496505cdbeb65135770fb918fbf4a0e81b"
-          }
-        },
         {
           "client_id": "384186203203-35cgdl20n64qf7ii0bk8838jscvfjppr.apps.googleusercontent.com",
           "client_type": 3
@@ -60,20 +44,12 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:384186203203:android:a0014604e824c6e7a568f6",
+        "mobilesdk_app_id": "1:384186203203:android:ee6e19ee383c987aa568f6",
         "android_client_info": {
-          "package_name": "com.forcar.delivery"
+          "package_name": "com.driver.forcar"
         }
       },
       "oauth_client": [
-        {
-          "client_id": "384186203203-q24lnpoeuuk8i3f2722bm2gp52h0e2si.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.forcar.delivery",
-            "certificate_hash": "e54535560e9dd7b21fa2f7fe2a51efca975f9467"
-          }
-        },
         {
           "client_id": "384186203203-35cgdl20n64qf7ii0bk8838jscvfjppr.apps.googleusercontent.com",
           "client_type": 3
@@ -104,20 +80,12 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:384186203203:android:ddfafa661f372d7ba568f6",
+        "mobilesdk_app_id": "1:384186203203:android:7ef0636c997e41c9a568f6",
         "android_client_info": {
-          "package_name": "com.forcar.seller"
+          "package_name": "com.seller.forcar"
         }
       },
       "oauth_client": [
-        {
-          "client_id": "384186203203-69jo7fq2mm4972d1h8pcvtp839hp5es2.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.forcar.seller",
-            "certificate_hash": "4d585ab07070377332b737db1eed43398a88a0d0"
-          }
-        },
         {
           "client_id": "384186203203-35cgdl20n64qf7ii0bk8838jscvfjppr.apps.googleusercontent.com",
           "client_type": 3
